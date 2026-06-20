@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "127chetan.github.io",
+			"path": "../../127chetan.github.io"
+		}
+	],
+	"settings": {
+		"godotTools.editorPath.godot4": "/Users/chetanbhatia/Downloads/Godot.app"
+	}
+}
