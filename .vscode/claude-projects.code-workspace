@@ -6,6 +6,9 @@
 		{
 			"name": "127chetan.github.io",
 			"path": "../../127chetan.github.io"
+		},
+		{
+			"path": "../../api-tutorial-builder"
 		}
 	],
 	"settings": {
